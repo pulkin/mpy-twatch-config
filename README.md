@@ -2,7 +2,7 @@ mpy-twatch-config
 =================
 
 This repository contains `boot.py` for [T-Watch 2020](https://t-watch-document-en.readthedocs.io/en/latest/introduction/product/2020.html), programmable smart watch based on ESP32.
-Applies to [micropython](micropython.org) firmware only.
+Applies to [micropython](https://micropython.org) firmware only.
 
 What for
 --------
