@@ -15,6 +15,9 @@ How to use
 ----------
 
 Copy `boot.py` to the board and the settings will apply on the next reboot.
+```bash
+rshell --port /dev/ttyUSB0 cp boot.py /pyboard/
+```
 Adjust the file as you need it.
 
 License
